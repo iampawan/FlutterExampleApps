@@ -58,6 +58,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter CryptoShadow](https://github.com/huextrat/CryptoShadow) [Hugo EXTRAT](https://github.com/huextrat/)
 
+1.  [Flutter LifeCycle And Orientation](https://github.com/iampawan/FlutterLifeCycleAndOrientation)[![watch](image/youtube.png)](https://youtu.be/f9m_Wc4K5v0)
+
 # Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
