@@ -7,10 +7,18 @@
 
 This repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
+## YouTube Channel
+
+[MTechViral](https://www.youtube.com/c/MTechViral)
+
+## Facebook Group
+
+[Let's Flutter](https://www.facebook.com/groups/425920117856409/)
+
 ### Some Screenshots
 
 <img src="image/ss1.png" height="300em" /> <img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em" /> <img src="image/ss2.png" height="300em" />
-<img src="image/ss4.png" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/ss5.png" height="300em" />
+<img src="image/ss4.png" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/ss5.png" height="300em" /><img src="image/ss6.png" height="300em" />
 
 ## Example Apps (Source Code + YouTube Link)
 
@@ -38,9 +46,9 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Calculator](https://github.com/iampawan/fluttercalculator)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=Ss1HkZ3LnRY)
 
-1.  [Flutter Login Page App](https://github.com/iampawan/fluttercalculator)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=iYH2jzUM1Nc)
+1.  [Flutter Login Page App](https://github.com/iampawan/flutterlogin)[![watch](image/youtube.png)](https://youtu.be/iYH2jzUM1Nc)
 
-1.  [Flutter Beautiful Material Navigation Drawer](https://www.youtube.com/watch?v=iYH2jzUM1Nc)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=iYH2jzUM1Nc)
+1.  [Flutter Beautiful Material Navigation Drawer](https://www.youtube.com/watch?v=iYH2jzUM1Nc)[![watch](image/youtube.png)](https://youtu.be/JWuXj0BY_s4)
 
 1.  [Flutter Material Design Widgets - | Tabs | BottomNavigationBar | Stepper | Snackbar etc App](https://www.youtube.com/watch?v=5_zQ6rjv00s)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=5_zQ6rjv00s)
 
@@ -60,6 +68,10 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter LifeCycle And Orientation](https://github.com/iampawan/FlutterLifeCycleAndOrientation)[![watch](image/youtube.png)](https://youtu.be/f9m_Wc4K5v0)
 
+1.  [Flutter Splash Screen - FlutKart](https://github.com/iampawan/FlutKart)[![watch](image/youtube.png)](https://youtu.be/FNBuo-7zg2Q)
+
+1.  [Flutter Walkthrough Package & App](https://github.com/iampawan/Flutter-Walkthrough)[![watch](image/youtube.png)](https://youtu.be/iOqtl8-iDE0)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flutter_walkthrough)
+
 # Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
@@ -68,7 +80,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 2.  If its a feature, bugfix, or anything please only change code to what you specify.
 3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
-5.  Check for existing [issues](https://github.com/iampawan/FlutterExampleApps) first, before filing an issue.
+5.  Check for existing [issues](https://github.com/iampawan/FlutterExampleApps/issues) first, before filing an issue.
 6.  Make sure you follow the set standard as all other projects in this repo do
 7.  Have fun!
 
