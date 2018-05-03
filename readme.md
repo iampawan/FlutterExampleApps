@@ -18,7 +18,8 @@ This repository containing links of all the example apps demonstrating features/
 ### Some Screenshots
 
 <img src="image/ss1.png" height="300em" /> <img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em" /> <img src="image/ss2.png" height="300em" />
-<img src="image/ss4.png" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/ss5.png" height="300em" /><img src="image/ss6.png" height="300em" /><img src="image/ss7.png" height="300em" />
+<img src="image/ss4.png" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/ss5.png" height="300em" /><img src="image/ss6.png" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/>
+<img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/>
 
 ## Example Apps (Source Code + YouTube Link)
 
@@ -73,6 +74,12 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter Walkthrough Package & App](https://github.com/iampawan/Flutter-Walkthrough)[![watch](image/youtube.png)](https://youtu.be/iOqtl8-iDE0)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flutter_walkthrough)
 
 1.  [Flutter Validating Form - Login Form](https://github.com/iampawan/FlutterForms)[![watch](image/youtube.png)](https://youtu.be/RlBfFswZ94U)
+
+1.  [Flutter Age Calculator App](https://github.com/iampawan/FlutterAnimatedAgeCalculatorApp)[![watch](image/youtube.png)](https://youtu.be/6y9Ce76amjY)
+
+1.  [Flutter Collapsing Toolbar Layout](https://github.com/iampawan/FlutterCollapsingToolbar)[![watch](image/youtube.png)](https://youtu.be/e5bklM7YfIo)
+
+1.  [Flutter Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
 
 # Pull Requests
 
