@@ -17,9 +17,11 @@ This repository containing links of all the example apps demonstrating features/
 
 ### Some Screenshots
 
-<img src="image/ss1.png" height="300em" /> <img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em" /> <img src="image/ss2.png" height="300em" />
-<img src="image/ss4.png" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/ss5.png" height="300em" /><img src="image/ss6.png" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/>
+<img src="image/ss1.png" height="300em" /> <img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em" /> <img src="image/pmdb.gif" height="300em" />
+<img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/>
 <img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/>
+<img src="image/ptr.gif" height="300em"/>
+<img src="image/iconnect.gif" height="300em"/>
 
 ## Example Apps (Source Code + YouTube Link)
 
@@ -80,6 +82,10 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter Collapsing Toolbar Layout](https://github.com/iampawan/FlutterCollapsingToolbar)[![watch](image/youtube.png)](https://youtu.be/e5bklM7YfIo)
 
 1.  [Flutter Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
+
+1.  [Flutter PullToRefresh ListView](https://github.com/iampawan/flutter_pull_to_refresh)[![watch](image/youtube.png)](https://youtu.be/5n8xP4ukzlM)
+
+1.  [Flutter Internet Connectivity](https://github.com/iampawan/flutter_connectivity)[![watch](image/youtube.png)](https://youtu.be/QxE-hEa16gA)
 
 # Pull Requests
 
