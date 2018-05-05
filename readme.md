@@ -33,7 +33,9 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flute Music Plugin](https://github.com/iampawan/Flute-Music-Player)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flute_music_player)
 
-1.  [Flutter With Firebase](https://github.com/iampawan/FlutterWithFirebase)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=8M-Fa239Hy4)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=HzKdJekhXoc&t=25s)
+1.  [Flutter Firebase Setup](https://github.com/iampawan/FlutterWithFirebase)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=8M-Fa239Hy4)
+
+1.  [Flutter Firebase CRUD](https://github.com/iampawan/FlutterWithFirebase)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=HzKdJekhXoc&t=25s)
 
 1.  [Flutter Bottom Sheet App](https://github.com/iampawan/FlutterBottomSheet)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=KpR5fQx_V2c)
 
