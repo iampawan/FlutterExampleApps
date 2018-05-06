@@ -17,13 +17,7 @@ This repository containing links of all the example apps demonstrating features/
 
 ### Some Screenshots
 
-<img src="image/whatsapp.gif" height="300em" />
-<img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" />
-<img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em" /> <img src="image/pmdb.gif" height="300em" />
-<img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/>
-<img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/>
-<img src="image/ptr.gif" height="300em"/>
-<img src="image/iconnect.gif" height="300em"/>
+<img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/><img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/>
 
 ## Example Apps (Source Code + YouTube Link)
 
