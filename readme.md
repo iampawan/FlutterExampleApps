@@ -20,7 +20,7 @@ This repository containing links of all the example apps demonstrating features/
 <img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/><img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/>
 <img src="image/sc.gif" height="300em"/><img src="image/stick.gif" height="300em"/>
 
-## Example Apps (Source Code + YouTube Link)
+## Flutter Example Apps (Source Code + YouTube Link)
 
 1.  [Flutter WhatsApp Clone App](https://github.com/iampawan/FlutterWhatsAppClone)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=2Tyrofn6zPg&t=25s)
 
@@ -102,7 +102,19 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Expandable & Sticky Header List](https://github.com/iampawan/FlutterExpandableAndStickyHeaderList)[![watch](image/youtube.png)](https://youtu.be/vDgdzfcFBy0)
 
-1.  [Dart: Create First Rest API | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/rf6uAcAglzc)
+## Dart Aqueduct Backend Course (Source Code + YouTube Link)
+
+1.  [Dart: How to Setup Aqueduct | Intro | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/rf6uAcAglzc)
+1.  [Dart: How to write your first REST API | Intro & 1/7 | Aqueduct](https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/rf6uAcAglzc)
+1.  [Dart: How to make controllers ? | 1/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/XCOYxjoJDb8)
+1.  [Dart: Indexing And Routing ? | 2/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/zG1kUp1bcQY)
+1.  [Dart: How to write tests ? | 3/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/Q2I4wDET4Os)
+1.  [Dart: How to setup PostgreSQL ? | 4/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/WrqUOZw1E7w)
+1.  [Dart: How to write tests with test db ? | 5/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/JsPFOh3SPm0)
+1.  [Dart: What is ORM ? | 5/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/JsPFOh3SPm0)
+1.  [Dart: How to make DataModels ? | 5/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/JsPFOh3SPm0)
+1.  [Dart: What are Relationships and Joins | 6/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/TWhCHoGds0c)
+1.  [Dart: How to deploy to real database ? | 7/7 | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/6H3XwY_G8JA)
 
 # Pull Requests
 
