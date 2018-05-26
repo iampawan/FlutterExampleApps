@@ -18,7 +18,8 @@ This repository containing links of all the example apps demonstrating features/
 ### Some Screenshots
 
 <img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/><img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/>
-<img src="image/sc.gif" height="300em"/><img src="image/stick.gif" height="300em"/>
+<img src="image/sc.gif" height="300em"/><img src="image/stick.gif" height="300em"/><img src="https://thumbs.gfycat.com/BlindCookedIcterinewarbler-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/BountifulIdenticalBumblebee-size_restricted.gif" height="300em"/>
+<img src="https://thumbs.gfycat.com/DeliciousAssuredBanteng-size_restricted.gif" height="300em"/>
 
 ## Flutter Example Apps (Source Code + YouTube Link)
 
@@ -104,6 +105,10 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Backdrop Widget Tutorial | Material Design 2.0](https://github.com/iampawan/FlutterBackdrop)[![watch](image/youtube.png)](https://youtu.be/LcEyi1_1bAw)
 
+1.  [Flutter: QR Code Scanner App](https://github.com/iampawan/FlutterQRScanner-App)[![watch](image/youtube.png)](https://youtu.be/siuJhQ9BqsU)
+
+1.  [Flutter: Integrate Google Maps Tutorial](https://github.com/iampawan/FlutterGoogleMaps)[![watch](image/youtube.png)](https://youtu.be/2PVHzuuN9Ww)
+
 ## Dart Aqueduct Backend Course (Source Code + YouTube Link)
 
 1.  [Dart: How to Setup Aqueduct | Intro | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/rf6uAcAglzc)
@@ -159,5 +164,6 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
+![Image](image/fe.png)
 
 For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
