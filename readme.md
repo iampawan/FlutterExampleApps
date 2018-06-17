@@ -17,13 +17,20 @@ This repository containing links of all the example apps demonstrating features/
 
 ### Some Screenshots
 
-<img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/><img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/>
+<img src="image/whatsapp.gif" height="300em" />
+<img src="https://thumbs.gfycat.com/UnselfishAlertIceblueredtopzebra-size_restricted.gif" height="300em" />
+<img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
+<img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/><img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/>
 <img src="image/sc.gif" height="300em"/><img src="image/stick.gif" height="300em"/><img src="https://thumbs.gfycat.com/BlindCookedIcterinewarbler-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/BountifulIdenticalBumblebee-size_restricted.gif" height="300em"/>
 <img src="https://thumbs.gfycat.com/DeliciousAssuredBanteng-size_restricted.gif" height="300em"/>
 
 ## Flutter Example Apps (Source Code + YouTube Link)
 
 1.  [Flutter WhatsApp Clone App](https://github.com/iampawan/FlutterWhatsAppClone)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=2Tyrofn6zPg&t=25s)
+
+1.  [Flutter Instagram Clone App](https://github.com/iampawan/Flutter-Instagram-UI-Clone)[![watch](image/youtube.png)](https://youtu.be/Z9fsyhKHWDg)
+
+1.  [Flutter Firebase MLKIT App](https://github.com/iampawan/FlutterWithFirebase/tree/mlkit)[![watch](image/youtube.png)](https://youtu.be/vT6gNFE0GBw)
 
 1.  [Flutter Tic Tac Toe Game](https://github.com/iampawan/FlutterTicTacToe)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=u1KD6Kz0PIQ&t=25s)
 
@@ -109,6 +116,24 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Integrate Google Maps Tutorial](https://github.com/iampawan/FlutterGoogleMaps)[![watch](image/youtube.png)](https://youtu.be/2PVHzuuN9Ww)
 
+1.  [Flutter: Build Your First Plugin For Android & iOS | Flutter Toasts](https://github.com/iampawan/FlutterToastPlugin)[![watch](image/youtube.png)](https://youtu.be/TZRpCGQsBCw)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flutter_toast_pk)
+
+1.  [Flutter: Inherited Widget & Scoped Model Explained | Part - 1](https://github.com/iampawan/StateExperiments)[![watch](image/youtube.png)](https://youtu.be/j-27MZwRbFw)
+
+1.  [Flutter: BloC Pattern Explained | Part - 2](https://github.com/iampawan/StateExperiments)[![watch](image/youtube.png)](https://youtu.be/_6yXf7kcA8A)
+
+1.  [VSCode Tips & Tricks | Flutter | 20 Useful Shortcuts](https://youtu.be/sCb44rmNMfM)[![watch](image/youtube.png)](https://youtu.be/sCb44rmNMfM)
+
+## Plugins on pub.dartlang.org
+
+1.  [Flutter Flute Music Plugin - First Open Source Flutter based material design music player with audio plugin to play local music files.(Online Radio will be added soon).](https://pub.dartlang.org/packages/flute_music_player)
+
+1.  [Flutter Walkthrough - A new Flutter package for both android and iOS which helps developers in creating animated walkthrough of their app.](https://pub.dartlang.org/packages/flutter_walkthrough)
+
+1.  [Flutter Toast PK - A new Flutter plugin for showing toast in android and ios.](https://pub.dartlang.org/packages/flutter_toast_pk)
+
+1.  [Random PK - A new Flutter package that gives a container with random color.](https://pub.dartlang.org/packages/random_pk)
+
 ## Dart Aqueduct Backend Course (Source Code + YouTube Link)
 
 1.  [Dart: How to Setup Aqueduct | Intro | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/rf6uAcAglzc)
@@ -142,7 +167,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> * [PayPal](https://www.paypal.me/imthepk/)
+> - [PayPal](https://www.paypal.me/imthepk/)
 
 # License
 
