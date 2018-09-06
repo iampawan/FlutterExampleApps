@@ -17,18 +17,23 @@ This repository containing links of all the example apps demonstrating features/
 
 ### Some Screenshots
 
-<img src="image/whatsapp.gif" height="300em" />
-<img src="https://thumbs.gfycat.com/UnselfishAlertIceblueredtopzebra-size_restricted.gif" height="300em" />
-<img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
-<img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/><img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" /><img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/>
-<img src="image/sc.gif" height="300em"/><img src="image/stick.gif" height="300em"/><img src="https://thumbs.gfycat.com/BlindCookedIcterinewarbler-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/BountifulIdenticalBumblebee-size_restricted.gif" height="300em"/>
+<img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/UnselfishAlertIceblueredtopzebra-size_restricted.gif" height="300em" /><img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
+<img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/>
+<img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="image/ss3.png" height="300em" />
+<img src="image/bs.gif" height="300em" /><img src="image/kart.gif" height="300em" /><img src="image/ss7.png" height="300em" />
+<img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/UnknownTemptingAfricanpiedkingfisher-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="image/ptr.gif" height="300em"/><img src="image/iconnect.gif" height="300em"/><img src="image/sc.gif" height="300em"/><img src="image/stick.gif" height="300em"/>
+<img src="https://thumbs.gfycat.com/BlindCookedIcterinewarbler-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/BountifulIdenticalBumblebee-size_restricted.gif" height="300em"/>
 <img src="https://thumbs.gfycat.com/DeliciousAssuredBanteng-size_restricted.gif" height="300em"/>
 
 ## Flutter Example Apps (Source Code + YouTube Link)
 
+## Clones
+
 1.  [Flutter WhatsApp Clone App](https://github.com/iampawan/FlutterWhatsAppClone)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=2Tyrofn6zPg&t=25s)
 
 1.  [Flutter Instagram Clone App](https://github.com/iampawan/Flutter-Instagram-UI-Clone)[![watch](image/youtube.png)](https://youtu.be/Z9fsyhKHWDg)
+
+## Beginners & Intermediate
 
 1.  [Flutter Firebase MLKIT App](https://github.com/iampawan/FlutterWithFirebase/tree/mlkit)[![watch](image/youtube.png)](https://youtu.be/vT6gNFE0GBw)
 
@@ -88,8 +93,6 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Collapsing Toolbar Layout](https://github.com/iampawan/FlutterCollapsingToolbar)[![watch](image/youtube.png)](https://youtu.be/e5bklM7YfIo)
 
-1.  [Flutter Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
-
 1.  [Flutter PullToRefresh ListView](https://github.com/iampawan/flutter_pull_to_refresh)[![watch](image/youtube.png)](https://youtu.be/5n8xP4ukzlM)
 
 1.  [Flutter Internet Connectivity](https://github.com/iampawan/flutter_connectivity)[![watch](image/youtube.png)](https://youtu.be/QxE-hEa16gA)
@@ -106,8 +109,6 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Publish App to PlayStore | Fully Explained Demo P5](https://github.com/iampawan/FlutterWithFirebase)[![watch](image/youtube.png)](https://youtu.be/qpruGmff5Fw)
 
-1.  [Flutter Redux: Shopping Cart App From Scratch | Redux Time Travel](https://github.com/iampawan/FlutterShoppingCart)[![watch](image/youtube.png)](https://youtu.be/yBH6wIzVhSg)
-
 1.  [Flutter: Expandable & Sticky Header List](https://github.com/iampawan/FlutterExpandableAndStickyHeaderList)[![watch](image/youtube.png)](https://youtu.be/vDgdzfcFBy0)
 
 1.  [Flutter: Backdrop Widget Tutorial | Material Design 2.0](https://github.com/iampawan/FlutterBackdrop)[![watch](image/youtube.png)](https://youtu.be/LcEyi1_1bAw)
@@ -116,13 +117,46 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Integrate Google Maps Tutorial](https://github.com/iampawan/FlutterGoogleMaps)[![watch](image/youtube.png)](https://youtu.be/2PVHzuuN9Ww)
 
-1.  [Flutter: Build Your First Plugin For Android & iOS | Flutter Toasts](https://github.com/iampawan/FlutterToastPlugin)[![watch](image/youtube.png)](https://youtu.be/TZRpCGQsBCw)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flutter_toast_pk)
-
-1.  [Flutter: Inherited Widget & Scoped Model Explained | Part - 1](https://github.com/iampawan/StateExperiments)[![watch](image/youtube.png)](https://youtu.be/j-27MZwRbFw)
-
-1.  [Flutter: BloC Pattern Explained | Part - 2](https://github.com/iampawan/StateExperiments)[![watch](image/youtube.png)](https://youtu.be/_6yXf7kcA8A)
-
 1.  [VSCode Tips & Tricks | Flutter | 20 Useful Shortcuts](https://youtu.be/sCb44rmNMfM)[![watch](image/youtube.png)](https://youtu.be/sCb44rmNMfM)
+
+1.  [Flutter: Handle Back Button Pressed | WillPopScope Widget](https://youtu.be/fYBCzgBRkb4)[![watch](image/youtube.png)](https://youtu.be/fYBCzgBRkb4)
+
+## Advanced
+
+1.  [Flutter Advanced: Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
+
+1.  [Flutter Advanced: Dynamic Theming | Change Theme At Runtime](https://github.com/iampawan/Flutter-Dynamic-Theming)[![watch](image/youtube.png)](https://youtu.be/XdUMp9k5JCI)
+
+1.  [Flutter Advanced: Inherited Widget & Scoped Model Explained | Part - 1](https://github.com/iampawan/StateExperiments)[![watch](image/youtube.png)](https://youtu.be/j-27MZwRbFw)
+
+1.  [Flutter Advanced: BloC Pattern Explained | Part - 2](https://github.com/iampawan/StateExperiments)[![watch](image/youtube.png)](https://youtu.be/_6yXf7kcA8A)
+
+1.  [Flutter Advanced Redux: Shopping Cart App From Scratch | Redux Time Travel](https://github.com/iampawan/FlutterShoppingCart)[![watch](image/youtube.png)](https://youtu.be/yBH6wIzVhSg)
+
+1.  [Flutter Advanced: Build Your First Plugin For Android & iOS | Flutter Toasts](https://github.com/iampawan/FlutterToastPlugin)[![watch](image/youtube.png)](https://youtu.be/TZRpCGQsBCw)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flutter_toast_pk)
+
+1.  [Flutter Advanced: Download Large Files (Pdf, Json, Image etc) With Progress %](https://github.com/iampawan/FlutterDownloadFilesWithProgress)[![watch](image/youtube.png)](https://youtu.be/Gru7swUQqsg)
+
+1.  [Flutter Advanced: Async Programming | Future | Async Await](https://youtu.be/JJ4MvlXooCU)[![watch](image/youtube.png)](https://youtu.be/JJ4MvlXooCU)
+
+1.  [Flutter Advanced: Semantic Versioning](https://youtu.be/iua7TjbeRHA)[![watch](image/youtube.png)](https://youtu.be/iua7TjbeRHA)
+
+
+## Flutter Weekly Widgets Series
+
+1.  [Flutter: SizedBox | Flutter Weekly Widgets | Ep 1 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/aVZ5rsA4Yx8)
+
+1.  [Flutter: Animated Builder | Improve Performance | Ep 2 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/ssz7pJQTokM)
+
+1.  [Flutter: Draggable & Drag Target | Ep 3  ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/U6WjVYZ3kKc)
+
+1.  [Flutter: World of Cupertino (iOS) | Ep 4 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/f4kXyOkfe6I)
+
+1.  [Flutter: Data Table | Ep 5 | Flutter Weekly Widgets ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/n2Dav9ONJsY)
+
+1.  [Flutter: WebView | Browser App | Ep 6 | Website to App](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/DEgtGLwdOHM)
+
+1.  [Flutter Advanced: Overlay Widget | Ep 7 | Flutter Weekly Widgets ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/KuXKwjv2gTY)
 
 ## Plugins on pub.dartlang.org
 
@@ -162,8 +196,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ### Created & Maintained By
 
-[Pawan Kumar](https://github.com/iampawan) ([@imthepk](https://www.twitter.com/imthepk)) ([Youtube](https://www.youtube.com/c/MTechViral))
-([Insta](https://www.instagram.com/codepur_ka_superhero))
+[Pawan Kumar](https://github.com/iampawan) ([@imthepk](https://www.twitter.com/imthepk)) ([YouTube](https://www.youtube.com/c/MTechViral))
+([Instagram](https://www.instagram.com/codepur_ka_superhero))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
