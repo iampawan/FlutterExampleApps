@@ -168,6 +168,10 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Random PK - A new Flutter package that gives a container with random color.](https://pub.dartlang.org/packages/random_pk)
 
+1.  [audioplayers - A Flutter plugin to play multiple simultaneously audio files, works for Android and iOS.](https://pub.dartlang.org/packages/audioplayers)
+
+1.  [flame - A minimalist Flutter game engine.](https://pub.dartlang.org/packages/flame)
+
 ## Dart Aqueduct Backend Course (Source Code + YouTube Link)
 
 1.  [Dart: How to Setup Aqueduct | Intro | Aqueduct](https://github.com/iampawan/DartFirstApi)[![watch](image/youtube.png)](https://youtu.be/rf6uAcAglzc)
