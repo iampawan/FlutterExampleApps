@@ -27,11 +27,19 @@ This repository containing links of all the example apps demonstrating features/
 
 ## Flutter Example Apps (Source Code + YouTube Link)
 
-## Clones
+## Clones/Apps
 
 1.  [Flutter WhatsApp Clone App](https://github.com/iampawan/FlutterWhatsAppClone)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=2Tyrofn6zPg&t=25s)
 
 1.  [Flutter Instagram Clone App](https://github.com/iampawan/Flutter-Instagram-UI-Clone)[![watch](image/youtube.png)](https://youtu.be/Z9fsyhKHWDg)
+
+1.  [Flutter Build a Beautiful Pokemon App - English](https://github.com/iampawan/PokemonApp)[![watch](image/youtube.png)](https://youtu.be/yeXJqZCiwTQ)
+
+1.  [Flutter Build a Beautiful Pokemon App - Hindi](https://github.com/iampawan/PokemonApp)[![watch](image/youtube.png)](https://youtu.be/0K3Zq3XqdAo)
+
+1.  [Flutter: Game Of Thrones Flutter App](https://github.com/iampawan/FlutterGameOfThrones)[![watch](image/youtube.png)](https://youtu.be/C0iGyCNoA5U)
+
+1.  [Flutter: Quiz App](https://github.com/iampawan/FlutterQuizApp)[![watch](image/youtube.png)](https://youtu.be/02sRV-eGGo0)
 
 ## Beginners & Intermediate
 
@@ -141,6 +149,21 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Advanced: Semantic Versioning](https://youtu.be/iua7TjbeRHA)[![watch](image/youtube.png)](https://youtu.be/iua7TjbeRHA)
 
+1.  [Flutter Advanced : Build Beautiful Material Search App or Integrate it with Any App](https://youtu.be/FPcl1tu0gDs)[![watch](image/youtube.png)](https://youtu.be/FPcl1tu0gDs)
+
+1.  [Flutter Advanced : Add Flutter To Existing Or New Android App](https://github.com/iampawan/AddFlutter2ExistingAndroidApp)[![watch](image/youtube.png)](https://youtu.be/Gw211RZGVw8)
+
+1.  [Flutter: The BloC Pattern on Whiteboard](https://youtu.be/LSljItPM_UE)[![watch](image/youtube.png)](https://youtu.be/LSljItPM_UE)
+
+## Flutter Animation Series
+
+1.  [Flutter: Animation Series || Episode 1 || Basic Animation ](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/UJVO-H0wfVU)
+
+1.  [Flutter Animation: Ep 2 || Animation Series || Easing ](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/kNVkC99p3Ho)
+
+1)  [Flutter Animation: Ep 3 || Animation Series || Brick Animations](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/5ANXJjVX3t8)
+
+1)  [Flutter Flare 1.0 : Getting Started With 2D Animations](https://github.com/iampawan/FlutterFlare-Basic)[![watch](image/youtube.png)](https://youtu.be/eeXdA6gow3s)
 
 ## Flutter Weekly Widgets Series
 
@@ -148,7 +171,7 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Animated Builder | Improve Performance | Ep 2 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/ssz7pJQTokM)
 
-1.  [Flutter: Draggable & Drag Target | Ep 3  ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/U6WjVYZ3kKc)
+1.  [Flutter: Draggable & Drag Target | Ep 3 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/U6WjVYZ3kKc)
 
 1.  [Flutter: World of Cupertino (iOS) | Ep 4 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/f4kXyOkfe6I)
 
@@ -157,6 +180,8 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter: WebView | Browser App | Ep 6 | Website to App](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/DEgtGLwdOHM)
 
 1.  [Flutter Advanced: Overlay Widget | Ep 7 | Flutter Weekly Widgets ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/KuXKwjv2gTY)
+
+1.  [Flutter Advanced: Placeholder, Spacer, Visibility Widgets | Ep 8 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/DrJLGJ5e-uw)
 
 ## Plugins on pub.dartlang.org
 
