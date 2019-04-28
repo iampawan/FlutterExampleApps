@@ -131,13 +131,11 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Handle Back Button Pressed | WillPopScope Widget](https://youtu.be/fYBCzgBRkb4)[![watch](image/youtube.png)](https://youtu.be/fYBCzgBRkb4)
 
-1.  [Flutter: Programatically Check Whether Debug OR Release Mode]()[![watch](image/youtube.png)](https://youtu.be/xyVXbNMJoIk)
+1)  [Flutter: Programatically Check Whether Debug OR Release Mode]()[![watch](image/youtube.png)](https://youtu.be/xyVXbNMJoIk)
 
-1.  [Flutter: Programatically Check Whether Debug OR Release Mode]()[![watch](image/youtube.png)](https://youtu.be/xyVXbNMJoIk)
+1)  [Flutter: Make New Gmail Like FloatingActionButton](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/fiOAAiZ41Zs)
 
-1.  [Flutter: Make New Gmail Like FloatingActionButton](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/fiOAAiZ41Zs)
-
-1.  [Routes in Flutter | Push | PushNamed | GenerateRoute | Unknown Route](https://github.com/iampawan/Flutter-Routes)[![watch](image/youtube.png)](https://youtu.be/vyXWqOmkxe8)
+1)  [Routes in Flutter | Push | PushNamed | GenerateRoute | Unknown Route](https://github.com/iampawan/Flutter-Routes)[![watch](image/youtube.png)](https://youtu.be/vyXWqOmkxe8)
 
 ## Advanced
 
@@ -167,9 +165,9 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Advanced Login Page Bloc Pattern App](https://github.com/iampawan/FlutterLoginPageBloc)[![watch](image/youtube.png)](https://youtu.be/96ykD0sacRA)
 
-1)  [Flutter Advanced Face ID & Touch ID/Fingerprint Local Auth App](https://github.com/iampawan/FlutterAuthFaceID-FingerPrint)[![watch](image/youtube.png)](https://youtu.be/w0-UB7rx8TA)
+1.  [Flutter Advanced Face ID & Touch ID/Fingerprint Local Auth App](https://github.com/iampawan/FlutterAuthFaceID-FingerPrint)[![watch](image/youtube.png)](https://youtu.be/w0-UB7rx8TA)
 
-1)  [Flutter Advanced Securing your Flutter Apps | Prevent Screenshot App](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/iVNTTX5GrUc)
+1.  [Flutter Advanced Securing your Flutter Apps | Prevent Screenshot App](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/iVNTTX5GrUc)
 
 ## Flutter Animation Series
 
@@ -216,6 +214,10 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter Toast PK - A new Flutter plugin for showing toast in android and ios.](https://pub.dartlang.org/packages/flutter_toast_pk)
 
 1.  [Random PK - A new Flutter package that gives a container with random color.](https://pub.dartlang.org/packages/random_pk)
+
+1.  [PK Skeleton - A Facebook & Twitter Like Card Loading Shimmer Skeleton Library..](https://pub.dartlang.org/packages/pk_skeleton)
+
+1.  [MediumClapFlutter - A Custom Floating Action Button (FAB) library like clapping effect on Medium.](https://pub.dartlang.org/packages/medium_clap_flutter)
 
 1.  [audioplayers - A Flutter plugin to play multiple simultaneously audio files, works for Android and iOS.](https://pub.dartlang.org/packages/audioplayers)
 
