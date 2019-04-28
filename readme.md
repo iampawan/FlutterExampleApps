@@ -37,6 +37,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Quiz App](https://github.com/iampawan/FlutterQuizApp)[![watch](image/youtube.png)](https://youtu.be/02sRV-eGGo0)
 
+1.  [Flutter StackOverflow App](https://github.com/iampawan/FlutterStackOverflowApp)[![watch](image/youtube.png)](https://youtu.be/-MBWdZ1u8tQ)
+
 ## Beginners & Intermediate
 
 1.  [Flutter Firebase MLKIT App](https://github.com/iampawan/FlutterWithFirebase/tree/mlkit)[![watch](image/youtube.png)](https://youtu.be/vT6gNFE0GBw)
@@ -67,6 +69,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Login Page App](https://github.com/iampawan/flutterlogin)[![watch](image/youtube.png)](https://youtu.be/iYH2jzUM1Nc)
 
+1.  [Flutter Login Page Bloc Pattern App](https://github.com/iampawan/FlutterLoginPageBloc)[![watch](image/youtube.png)](https://youtu.be/96ykD0sacRA)
+
 1.  [Flutter Beautiful Material Navigation Drawer](https://www.youtube.com/watch?v=iYH2jzUM1Nc)[![watch](image/youtube.png)](https://youtu.be/JWuXj0BY_s4)
 
 1.  [Flutter Material Design Widgets - | Tabs | BottomNavigationBar | Stepper | Snackbar etc App](https://www.youtube.com/watch?v=5_zQ6rjv00s)[![watch](image/youtube.png)](https://www.youtube.com/watch?v=5_zQ6rjv00s)
@@ -88,6 +92,8 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter LifeCycle And Orientation](https://github.com/iampawan/FlutterLifeCycleAndOrientation)[![watch](image/youtube.png)](https://youtu.be/f9m_Wc4K5v0)
 
 1.  [Flutter Splash Screen - FlutKart](https://github.com/iampawan/FlutKart)[![watch](image/youtube.png)](https://youtu.be/FNBuo-7zg2Q)
+
+1.  [Flutter Real Splash Screens for both OS]()[![watch](image/youtube.png)](https://youtu.be/BjV4RMkVY6w)
 
 1.  [Flutter Walkthrough Package & App](https://github.com/iampawan/Flutter-Walkthrough)[![watch](image/youtube.png)](https://youtu.be/iOqtl8-iDE0)[![Pub](image/dart.png)](https://pub.dartlang.org/packages/flutter_walkthrough)
 
@@ -125,6 +131,14 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: Handle Back Button Pressed | WillPopScope Widget](https://youtu.be/fYBCzgBRkb4)[![watch](image/youtube.png)](https://youtu.be/fYBCzgBRkb4)
 
+1.  [Flutter: Programatically Check Whether Debug OR Release Mode]()[![watch](image/youtube.png)](https://youtu.be/xyVXbNMJoIk)
+
+1.  [Flutter: Programatically Check Whether Debug OR Release Mode]()[![watch](image/youtube.png)](https://youtu.be/xyVXbNMJoIk)
+
+1.  [Flutter: Make New Gmail Like FloatingActionButton](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/fiOAAiZ41Zs)
+
+1.  [Routes in Flutter | Push | PushNamed | GenerateRoute | Unknown Route](https://github.com/iampawan/Flutter-Routes)[![watch](image/youtube.png)](https://youtu.be/vyXWqOmkxe8)
+
 ## Advanced
 
 1.  [Flutter Advanced: Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
@@ -151,15 +165,23 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter: The BloC Pattern on Whiteboard](https://youtu.be/LSljItPM_UE)[![watch](image/youtube.png)](https://youtu.be/LSljItPM_UE)
 
+1.  [Flutter Advanced Login Page Bloc Pattern App](https://github.com/iampawan/FlutterLoginPageBloc)[![watch](image/youtube.png)](https://youtu.be/96ykD0sacRA)
+
+1)  [Flutter Advanced Face ID & Touch ID/Fingerprint Local Auth App](https://github.com/iampawan/FlutterAuthFaceID-FingerPrint)[![watch](image/youtube.png)](https://youtu.be/w0-UB7rx8TA)
+
+1)  [Flutter Advanced Securing your Flutter Apps | Prevent Screenshot App](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/iVNTTX5GrUc)
+
 ## Flutter Animation Series
 
 1.  [Flutter: Animation Series || Episode 1 || Basic Animation ](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/UJVO-H0wfVU)
 
 1.  [Flutter Animation: Ep 2 || Animation Series || Easing ](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/kNVkC99p3Ho)
 
-1)  [Flutter Animation: Ep 3 || Animation Series || Brick Animations](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/5ANXJjVX3t8)
+1.  [Flutter Animation: Ep 3 || Animation Series || Brick Animations](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/5ANXJjVX3t8)
 
-1)  [Flutter Flare 1.0 : Getting Started With 2D Animations](https://github.com/iampawan/FlutterFlare-Basic)[![watch](image/youtube.png)](https://youtu.be/eeXdA6gow3s)
+1.  [Flutter: Animation Series Ep 4 | Flipper Widget](https://github.com/iampawan/FlipperWidge)[![watch](image/youtube.png)](https://youtu.be/R7sOcdIeMKQ)
+
+1.  [Flutter Flare 1.0 : Getting Started With 2D Animations](https://github.com/iampawan/FlutterFlare-Basic)[![watch](image/youtube.png)](https://youtu.be/eeXdA6gow3s)
 
 ## Flutter Weekly Widgets Series
 
@@ -178,6 +200,12 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter Advanced: Overlay Widget | Ep 7 | Flutter Weekly Widgets ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/KuXKwjv2gTY)
 
 1.  [Flutter Advanced: Placeholder, Spacer, Visibility Widgets | Ep 8 ](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/DrJLGJ5e-uw)
+
+1.  [Flutter Weekly Widgets S02E01 | Reordable ListView](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/VsdR9S0J0ag)
+
+1.  [Flutter Weekly Widgets S02E02 | 3D ListView](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/oE4Cl_p5LQ0)
+
+1.  [Flutter Weekly Widgets S02E03 | Universal Error Widget](https://github.com/iampawan/FlutterWidgets)[![watch](image/youtube.png)](https://youtu.be/6mOX9LxH_rU)
 
 ## Plugins on pub.dartlang.org
 
@@ -206,6 +234,10 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Dart: How to make DataModels ? | 5/7 | Aqueduct](https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/JsPFOh3SPm0)
 1.  [Dart: What are Relationships and Joins | 6/7 | Aqueduct](https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/TWhCHoGds0c)
 1.  [Dart: How to deploy to real database ? | 7/7 | Aqueduct](https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/6H3XwY_G8JA)
+
+## Workshops
+
+1.  [Flutter From Scratch - Workshop | Photos Info App | Instagram Clone & More](https://github.com/iampawan/FlutterChennai)[![watch](image/youtube.png)](https://youtu.be/bv_Xv_yN2A8)
 
 # Pull Requests
 
