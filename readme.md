@@ -13,7 +13,7 @@ This repository containing links of all the example apps demonstrating features/
 
 ## Facebook Group
 
-[Let's Flutter](https://www.facebook.com/groups/425920117856409/)
+[Let's Flutter With Dart](https://www.facebook.com/groups/425920117856409/)
 
 ### Some Screenshots
 
@@ -38,6 +38,16 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter: Quiz App](https://github.com/iampawan/FlutterQuizApp)[![watch](image/youtube.png)](https://youtu.be/02sRV-eGGo0)
 
 1.  [Flutter StackOverflow App](https://github.com/iampawan/FlutterStackOverflowApp)[![watch](image/youtube.png)](https://youtu.be/-MBWdZ1u8tQ)
+
+## Flutter For Web
+
+1.  [Flutter For Web: Getting Started | Migrating PokemonApp to Web](https://github.com/iampawan/FlutterForWebDemoApp)[![watch](image/youtube.png)](https://youtu.be/smwtgvpK9FU)
+
+1.  [Flutter Web: Making a Responsive Portfolio App | Part 1](https://github.com/iampawan/MyPortfolio)[![watch](image/youtube.png)](https://youtu.be/QAHqlsAky_4)
+
+1.  [Flutter Web: Deploying Portfolio App To Github.IO | Peanut Tutorial | Part 2](http://mtechviral.com/myportfolio/#/)[![watch](image/youtube.png)](https://youtu.be/ajSliNbczi0)
+
+1.  [Flutter Web: Deploying Flutter UIKit to Github Pages | Peanut Tutorial](http://mtechviral.com/Flutter-UI-Kit/)[![watch](image/youtube.png)](https://youtu.be/TJDSQBm51cI)
 
 ## Beginners & Intermediate
 
@@ -137,6 +147,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Routes in Flutter | Push | PushNamed | GenerateRoute | Unknown Route](https://github.com/iampawan/Flutter-Routes)[![watch](image/youtube.png)](https://youtu.be/vyXWqOmkxe8)
 
+1.  [Flutter: Auto Create Models from JSON | Serializable](https://github.com/iampawan/FlutterAutoJSONModel)[![watch](image/youtube.png)](https://youtu.be/hAbXdcHpx_U)
+
 ## Advanced
 
 1.  [Flutter Advanced: Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
@@ -168,6 +180,12 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter Advanced Face ID & Touch ID/Fingerprint Local Auth App](https://github.com/iampawan/FlutterAuthFaceID-FingerPrint)[![watch](image/youtube.png)](https://youtu.be/w0-UB7rx8TA)
 
 1.  [Flutter Advanced Securing your Flutter Apps | Prevent Screenshot App](https://github.com/iampawan/Flutter-UI-Kit)[![watch](image/youtube.png)](https://youtu.be/iVNTTX5GrUc)
+
+1.  [Flutter ARCore Tutorial | Sceneform | Exploring New Possibilities](https://github.com/iampawan/FlutterAR)[![watch](image/youtube.png)](https://youtu.be/Gf-Qu29RLUo)
+
+1.  [Flutter ARKit Tutorial | iOS](https://github.com/iampawan/FlutterAR)[![watch](image/youtube.png)](https://youtu.be/aHgzAfwxMQk)
+
+1.  [Flutter: PDF Viewer Tutorial Android & IOS | From URL & Asset](https://github.com/iampawan/FlutterPDFViewer)[![watch](image/youtube.png)](https://youtu.be/5S9qjreGFNc)
 
 ## Flutter Animation Series
 
@@ -237,9 +255,11 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Dart: What are Relationships and Joins | 6/7 | Aqueduct](https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/TWhCHoGds0c)
 1.  [Dart: How to deploy to real database ? | 7/7 | Aqueduct](https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/6H3XwY_G8JA)
 
-## Workshops
+## Workshops & Interviews
 
 1.  [Flutter From Scratch - Workshop | Photos Info App | Instagram Clone & More](https://github.com/iampawan/FlutterChennai)[![watch](image/youtube.png)](https://youtu.be/bv_Xv_yN2A8)
+
+1.  [Interview With A Googler | Chris Sells | Episode 01 | Flutter Q&A](https://pawan.live)[![watch](image/youtube.png)](https://youtu.be/DBvX4i9muk4)
 
 # Pull Requests
 
@@ -263,7 +283,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 # License
 
-    Copyright 2018 Pawan Kumar
+    Copyright 2019 Pawan Kumar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
