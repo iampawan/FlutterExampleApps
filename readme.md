@@ -20,6 +20,7 @@ This repository containing links of all the example apps demonstrating features/
 <img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/UnselfishAlertIceblueredtopzebra-size_restricted.gif" height="300em" /><img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
 <img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/>
 <img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/>
+<IMG src="image/bmicalculator.png" height="300em" />
 
 ## Flutter Example Apps (Source Code + YouTube Link)
 
@@ -148,6 +149,8 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Routes in Flutter | Push | PushNamed | GenerateRoute | Unknown Route](https://github.com/iampawan/Flutter-Routes)[![watch](image/youtube.png)](https://youtu.be/vyXWqOmkxe8)
 
 1.  [Flutter: Auto Create Models from JSON | Serializable](https://github.com/iampawan/FlutterAutoJSONModel)[![watch](image/youtube.png)](https://youtu.be/hAbXdcHpx_U)
+
+1.  [Flutter: BMI Calculator App ](https://github.com/imSanjaySoni/BMI-Calculator-with-flutter)
 
 ## Advanced
 
