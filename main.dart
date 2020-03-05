@@ -1,5 +1,14 @@
-void main() {
-  print("Flutter is amazing");
-  print(
-      "Flutter Example apps repo is the collections of awesome apps built with flutter");
-}
+import 'package:flutter/material.dart';
+import 'home_page.dart';
+void main() => runApp(new Myapp());
+ class Myapp extends StatelessWidget
+ {
+   @override
+  Widget build(BuildContext context) {
+    return new MaterialApp(
+      title: 'calculator app',
+      theme: new ThemeData(primarySwatch: Colors.red),
+      home: new HomePage(), 
+    );
+  }
+ }
