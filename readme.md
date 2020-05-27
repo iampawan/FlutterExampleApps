@@ -243,7 +243,7 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Advanced: TensorFlow Lite | Object Detection | YoloV2 | SSD Tutorial](https://github.com/iampawan/TFLite-Flutter)[![watch](image/youtube.png)](https://youtu.be/0pYh7Js4GM8)
 
-1.  [Flutter Zoom In Zoom Out And Rotatel](https://github.com/iampawan/FlutterUtilsCollection)[![watch](image/youtube.png)](https://youtu.be/bYrZnVGyYc8)
+1.  [Flutter Zoom In Zoom Out And Rotate](https://github.com/iampawan/FlutterUtilsCollection)[![watch](image/youtube.png)](https://youtu.be/bYrZnVGyYc8)
 
 ## Flutter Animation Series
 
