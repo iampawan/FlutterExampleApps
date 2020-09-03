@@ -197,6 +197,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Westlife Using Flutter](https://github.com/renjingkai/WestlifeUsingFlutter)
 
+1.  [NewsAppp Flutter](https://github.com/j-j-gajjar/FLUTTER_NewsApp)
+
 ## Advanced
 
 1.  [Flutter Advanced: Signature App (CustomPainter)](https://github.com/iampawan/fluttersignatureview)[![watch](image/youtube.png)](https://youtu.be/zu-do2luSAo)
