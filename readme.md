@@ -348,6 +348,21 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter App + Backend (Angel) = FullStack](https://github.com/iampawan/FlutterAngel)[![watch](image/youtube.png)](https://youtu.be/ggmjumYogEo)
 
 1.  [Deno (Backend) + Flutter (Frontend) Full Tutorial | QuotesX API & APP](https://youtu.be/_65Ixfu9nSo)[![watch](image/youtube.png)](https://youtu.be/_65Ixfu9nSo)
+## Flutter VelocityX Tutorials
+
+1.  [Flutter Powerful Text | VelocityX | Ch01](https://youtu.be/IOhJCN4T1V4)[![watch](image/youtube.png)](https://youtu.be/IOhJCN4T1V4)
+1.  [Flutter Powerful Box/Container| VelocityX | Ch02](https://youtu.be/RPrh-ynV8Bs)[![watch](image/youtube.png)](https://youtu.be/RPrh-ynV8Bs)
+1.  [Flutter Powerful Card| VelocityX | Ch03](https://youtu.be/tzkc5hFb9u4)[![watch](image/youtube.png)](https://youtu.be/tzkc5hFb9u4)
+1.  [Flutter Powerful SizedBox | VelocityX | Ch04](https://youtu.be/De9pV_ARtJE)[![watch](image/youtube.png)](https://youtu.be/De9pV_ARtJE)
+1.  [Flutter Powerful Flex| VelocityX | Ch05](https://youtu.be/dEuRXRY5Kd4)[![watch](image/youtube.png)](https://youtu.be/dEuRXRY5Kd4)
+1.  [Responsive Portfolio App | Flutter Mobile, Web, & Desktop | SpeedX Code](https://youtu.be/0GjsJEF9MaA)[![watch](image/youtube.png)](https://youtu.be/0GjsJEF9MaA)
+
+
+## Flutter Practice Live (FPL SERIES)
+
+1.  [EP00 : Warm up with Fresh UI | FPL | Flutter Practice Live | EP00 ](https://youtu.be/YEWWQiBR_94)[![watch](image/youtube.png)](https://youtu.be/YEWWQiBR_94)
+1.  [EP01 :Widget Testing & Keys in Detail | FPL | Flutter Practice Live | EP01](https://youtu.be/73SsK0n_s1o)[![watch](image/youtube.png)](https://youtu.be/73SsK0n_s1o)
+1.  [EP02 : Exploring Riverpod State Management | FPL | Flutter Practice Live | EP02](https://youtu.be/v7-NCn5J6fI)[![watch](image/youtube.png)](https://youtu.be/v7-NCn5J6fI)
 
 ## Workshops & Interviews
 
