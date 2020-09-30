@@ -348,6 +348,11 @@ This repository containing links of all the example apps demonstrating features/
 1.  [Flutter App + Backend (Angel) = FullStack](https://github.com/iampawan/FlutterAngel)[![watch](image/youtube.png)](https://youtu.be/ggmjumYogEo)
 
 1.  [Deno (Backend) + Flutter (Frontend) Full Tutorial | QuotesX API & APP](https://youtu.be/_65Ixfu9nSo)[![watch](image/youtube.png)](https://youtu.be/_65Ixfu9nSo)
+## Flutter Practice Live (FPL SERIES)
+
+1. [EP00 : Warm up with Fresh UI | FPL | Flutter Practice Live | EP00 (https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/YEWWQiBR_94)
+1. [EP01 :Widget Testing & Keys in Detail | FPL | Flutter Practice Live | EP01(https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/73SsK0n_s1o)
+1. [EP02 : Exploring Riverpod State Management | FPL | Flutter Practice Live | EP02 (https://github.com/iampawan/DartQuizApi)[![watch](image/youtube.png)](https://youtu.be/v7-NCn5J6fI)
 
 ## Workshops & Interviews
 
