@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FlutterExamples.iml" filepath="$PROJECT_DIR$/.idea/FlutterExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xylophone.iml" filepath="$PROJECT_DIR$/xylophone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/xylophone_android.iml" filepath="$PROJECT_DIR$/android/xylophone_android.iml" />
     </modules>
   </component>
 </project>
