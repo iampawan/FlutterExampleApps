@@ -75,6 +75,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Responsive Portfolio App | Flutter Mobile, Web, & Desktop | SpeedX Code](https://github.com/iampawan/PortfolioX)[![watch](image/youtube.png)](https://youtu.be/0GjsJEF9MaA)
 
+1.  [Flutter Chrome Extension | Clip](https://github.com/Asti7/clip)
+
 ## Flutter Designs
 
 1.  [Adobe XD Flutter Early Access Tutorial | Getting Started](https://youtu.be/ZcS66NNbTGw)[![watch](image/youtube.png)](https://youtu.be/ZcS66NNbTGw)
