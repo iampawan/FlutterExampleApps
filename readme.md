@@ -7,7 +7,7 @@
 
 This repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
-## YouTube Channel
+## My YouTube Channel
 
 [MTechViral](https://www.youtube.com/c/MTechViral)
 
@@ -15,7 +15,7 @@ This repository containing links of all the example apps demonstrating features/
 
 [Let's Flutter With Dart](https://www.facebook.com/groups/425920117856409/)
 
-### Some Screenshots
+### Some Good Screenshots
 
 <p float="left">
   <img src="https://i.imgur.com/50tJKqU.png"  />
