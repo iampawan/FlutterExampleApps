@@ -1,0 +1,86 @@
+
+import 'dart:js';
+import 'dart:ui';
+
+import 'package:flutter/material.dart';
+import 'package:splash/second.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+
+   
+        return MaterialApp(
+          home: Scaffold(
+            backgroundColor: Colors.lightBlue,
+            body: Container(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  CircleAvatar(
+                    radius: 60.0,
+                    backgroundColor: Colors.red,
+                  ),
+                  Text(
+                    "Shubham BIswas",
+                    style: TextStyle(
+                      fontFamily: 'dancing',
+                      fontSize: 40.0,
+                      color: Colors.white,
+                    ),
+                  ),
+                  Text(
+                    "App Devolper",
+                    style: TextStyle(
+                      fontFamily: 'Pacifico',
+                      fontSize: 10.0,
+                      fontWeight: FontWeight.bold,
+                      letterSpacing: 2.0,
+                      color: Colors.white,
+                    ),
+                  ),
+                  Card(
+                    color: Colors.white,
+                    child: ListTile(
+                      leading: Icon(Icons.phone),
+                      title: Text("8170960353"),
+                    ),
+                  ),
+                  Card(
+                    color: Colors.white,
+                    child: ListTile(
+                      leading: Icon(Icons.email),
+                      title: Text("shubhambiswas024@gmail.com"),
+                    ),
+                  ),
+                  FlatButton(
+                    color: Colors.blue,
+                    textColor: Colors.white,
+                    disabledColor: Colors.grey,
+                    disabledTextColor: Colors.black,
+                    padding: EdgeInsets.all(8.0),
+                    splashColor: Colors.blueAccent,
+                    onPressed: () ,
+                    child: Text(
+                      "Flat Button",
+                      style: TextStyle(fontSize: 20.0),
+                    ),
+                  )
+                  
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+void onPressed () {
+  Navigator.push(
+    context,
+    MaterialPageRoute(builder: (context) => Second()),
+  );
+}
