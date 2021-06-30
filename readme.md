@@ -37,6 +37,8 @@ This repository containing links of all the example apps demonstrating features/
 
 1.  [Flutter Instagram Clone App](https://github.com/iampawan/Flutter-Instagram-UI-Clone)[![watch](image/youtube.png)](https://youtu.be/Z9fsyhKHWDg)
 
+1.  [Flutter Medium Clone App](https://github.com/ViAsmit/Medium-Flutter)
+
 1.  [Flutter Build a Beautiful Pokemon App - English](https://github.com/iampawan/PokemonApp)[![watch](image/youtube.png)](https://youtu.be/yeXJqZCiwTQ)
 
 1.  [Flutter Build a Beautiful Pokemon App - Hindi](https://github.com/iampawan/PokemonApp)[![watch](image/youtube.png)](https://youtu.be/0K3Zq3XqdAo)
