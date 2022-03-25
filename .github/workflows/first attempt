@@ -1,0 +1,39 @@
+name: Practise_for_ios_deployement
+
+
+on:
+  
+  push:
+    branches:  
+     - master 
+     - main
+  pull_request:
+    branches:  
+     - master 
+     - main
+
+  
+  workflow_dispatch:
+
+
+jobs:
+ 
+  build:
+   - name: Build_test
+     runs-on: macos-latest
+     steps:
+       - uses: actions/checkout@v2
+       - uses: actions/setup-java@v2
+         with:
+           java-version: '12.x'
+       - uses: subosito/flutter-action@v2
+         with:
+           flutter-version: '2.2.0'
+       - run: flutter pub get
+       - run: flutter test
+       - run: flutter build apk --debug --split-per-abi
+       - uses: ncipollo/release-action@v1
+         with:
+           artifacts: 'build/app/outputs/apk/debug/*'
+           tag: v1.0.${{github.run_number}}
+           token: ${{secrets.TOKEN}}
