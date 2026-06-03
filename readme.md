@@ -400,3 +400,7 @@ For help getting started with Flutter, view our online
 ![Image](image/fa.png)
 
 For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
+
+## Türkçe Açıklama
+Bu proje, Flutter öğrenenler için temel uygulama örnekleri içermektedir. 
+Açık kaynak katkısı kapsamında bu dökümantasyon Türkçeleştirilmiştir.
